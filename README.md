@@ -35,7 +35,7 @@ bookshelf-api/
 ### 1. Clone & Install
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Arkizan15/Bookshelf-api.git
 cd bookshelf-api
 npm install
 ```
